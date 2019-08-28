@@ -20,7 +20,6 @@ function App() {
 
   // Create array of column heights (start at 0)
   let columnHeights = new Array(columnCount).fill(0);
-
   // Create array of arrays that will hold each column's items
   let columns = new Array(columnCount).fill().map(() => []);
 
