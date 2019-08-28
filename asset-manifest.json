@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/useDarkMode/static/css/main.25349dcc.chunk.css",
+    "main.js": "/useDarkMode/static/js/main.9c96bbe2.chunk.js",
+    "main.js.map": "/useDarkMode/static/js/main.9c96bbe2.chunk.js.map",
+    "runtime~main.js": "/useDarkMode/static/js/runtime~main.ae0fa701.js",
+    "runtime~main.js.map": "/useDarkMode/static/js/runtime~main.ae0fa701.js.map",
+    "static/css/2.62908225.chunk.css": "/useDarkMode/static/css/2.62908225.chunk.css",
+    "static/js/2.54786077.chunk.js": "/useDarkMode/static/js/2.54786077.chunk.js",
+    "static/js/2.54786077.chunk.js.map": "/useDarkMode/static/js/2.54786077.chunk.js.map",
+    "index.html": "/useDarkMode/index.html",
+    "precache-manifest.ab13d211e495adbfe1f53d8f72b61a53.js": "/useDarkMode/precache-manifest.ab13d211e495adbfe1f53d8f72b61a53.js",
+    "service-worker.js": "/useDarkMode/service-worker.js",
+    "static/css/2.62908225.chunk.css.map": "/useDarkMode/static/css/2.62908225.chunk.css.map",
+    "static/css/main.25349dcc.chunk.css.map": "/useDarkMode/static/css/main.25349dcc.chunk.css.map"
+  }
+}
