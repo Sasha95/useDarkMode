@@ -1,0 +1,17 @@
+body.dark-mode {
+  background-color: #232323;
+  color: #dfdfdf;  
+}
+
+.image-container {
+  position: relative;
+  width: 100%;
+  margin-bottom: 1.5rem;
+
+  img {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+}
